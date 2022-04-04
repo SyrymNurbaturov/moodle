@@ -1,0 +1,44 @@
+{
+  "python": {
+    "202034": {
+      "fullName": "Zakir  Marajapov",
+      "login": "202034@astanait.edu.kz",
+      "attendance": [
+        "present"
+      ],
+      "grades": [
+        "10"
+      ]
+    },
+    "202036": {
+      "fullName": "Rustam Zhitenov",
+      "login": "202036@astanait.edu.kz",
+      "attendance": [
+        "present"
+      ],
+      "grades": [
+        "0"
+      ]
+    },
+    "202062": {
+      "fullName": "Darkan Serik",
+      "login": "202062@astanait.edu.kz",
+      "attendance": [
+        "present"
+      ],
+      "grades": [
+        "2"
+      ]
+    },
+    "202001": {
+      "fullName": "Kairat Opssa",
+      "login": "202001@astanait.edu.kz",
+      "attendance": [
+        "present"
+      ],
+      "grades": [
+        "3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "python": {
+    "groups": {
+      "CS-2008": {
+        "202110": {
+          "fullName": "Batyrbek Baitanatov",
+          "login": "202110@astanait.edu.kz"
+        },
+        "202115": {
+          "fullName": "Aidar Zhunussov",
+          "login": "202115@astanait.edu.kz"
+        }
+      }
+    },
+    "teacher": {
+      "fullName": "Darkhan Serkeshev",
+      "login": "darkhan.serkeshev@astanait.edu.kz",
+      "barcode": "darkhan.serkeshev"
+    }
+  },
+  "probability and statistics": {
+    "groups": {
+      "CS-2006": {
+        "202034": {
+          "fullName": "Zakir  Marajapov",
+          "login": "202034@astanait.edu.kz"
+        },
+        "202036": {
+          "fullName": "Rustam Zhitenov",
+          "login": "202036@astanait.edu.kz"
+        },
+        "202094": {
+          "fullName": "Syrym Nurbaturov",
+          "login": "202094@astanait.edu.kz"
+        },
+        "202062": {
+          "fullName": "Darkan Serik",
+          "login": "202062@astanait.edu.kz"
+        },
+        "202001": {
+          "fullName": "Kairat Opssa",
+          "login": "202001@astanait.edu.kz"
+        }
+      },
+      "CS-2008": {
+        "202110": {
+          "fullName": "Batyrbek Baitanatov",
+          "login": "202110@astanait.edu.kz"
+        },
+        "202115": {
+          "fullName": "Aidar Zhunussov",
+          "login": "202115@astanait.edu.kz"
+        }
+      }
+    },
+    "teacher": {
+      "fullName": "Moldir Toleubek",
+      "login": "moldir.toleubek@astanait.edu.kz",
+      "barcode": "moldir.toleubek"
+    }
+  }
+}

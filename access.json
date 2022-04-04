@@ -1,0 +1,42 @@
+{
+  "admin": {
+    "login": [
+      "admin"
+    ],
+    "password": [
+      "admin"
+    ]
+  },
+  "student": {
+    "login": [
+      "202034@astanait.edu.kz",
+      "202036@astanait.edu.kz",
+      "202110@astanait.edu.kz",
+      "202094@astanait.edu.kz",
+      "202115@astanait.edu.kz",
+      "202062@astanait.edu.kz",
+      "202001@astanait.edu.kz"
+    ],
+    "password": [
+      "123321",
+      "123321",
+      "123321",
+      "123321",
+      "123321",
+      "123321",
+      "123321"
+    ]
+  },
+  "teacher": {
+    "login": [
+      "moldir.toleubek@astanait.edu.kz",
+      "darkhan.serkeshev@astanait.edu.kz",
+      "aidana.zhalgas@astanait.edu.kz"
+    ],
+    "password": [
+      "11111",
+      "11111",
+      "11111"
+    ]
+  }
+}

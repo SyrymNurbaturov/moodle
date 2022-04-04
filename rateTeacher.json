@@ -1,0 +1,22 @@
+{
+  "moldir.toleubek": {
+    "fullName": "Moldir Toleubek",
+    "age": "24",
+    "isMale": "False",
+    "login": "moldir.toleubek@astanait.edu.kz",
+    "password": "11111",
+    "barcode": "moldir.toleubek",
+    "subject": "probability and statistics",
+    "rate": "good teacher"
+  },
+  "darkhan.serkeshev": {
+    "fullName": "Darkhan Serkeshev",
+    "age": "25",
+    "isMale": "True",
+    "login": "darkhan.serkeshev@astanait.edu.kz",
+    "password": "11111",
+    "barcode": "darkhan.serkeshev",
+    "subject": "python",
+    "rate": "good teacher"
+  }
+}

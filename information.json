@@ -1,0 +1,103 @@
+{
+  "admin": {
+    "fullName": "Monkey D Luffy",
+    "age": 18,
+    "isMale": "True",
+    "login": [
+      "admin"
+    ],
+    "password": [
+      "admin"
+    ]
+  },
+  "202034": {
+    "fullName": "Zakir  Marajapov",
+    "age": "18",
+    "isMale": "True",
+    "login": "202034@astanait.edu.kz",
+    "password": "123321",
+    "group": "CS-2006",
+    "barcode": "202034"
+  },
+  "202036": {
+    "fullName": "Rustam Zhitenov",
+    "age": "18",
+    "isMale": true,
+    "login": "202036@astanait.edu.kz",
+    "password": "123321",
+    "group": "CS-2006",
+    "barcode": "202036"
+  },
+  "moldir.toleubek": {
+    "fullName": "Moldir Toleubek",
+    "age": "24",
+    "isMale": "False",
+    "login": "moldir.toleubek@astanait.edu.kz",
+    "password": "11111",
+    "barcode": "moldir.toleubek",
+    "subject": "probability and statistics"
+  },
+  "darkhan.serkeshev": {
+    "fullName": "Darkhan Serkeshev",
+    "age": "25",
+    "isMale": "True",
+    "login": "darkhan.serkeshev@astanait.edu.kz",
+    "password": "11111",
+    "barcode": "darkhan.serkeshev",
+    "subject": "python"
+  },
+  "aidana.zhalgas": {
+    "fullName": "Aidana Zhalgas",
+    "age": "21",
+    "isMale": "False",
+    "login": "aidana.zhalgas@astanait.edu.kz",
+    "password": "11111",
+    "barcode": "aidana.zhalgas",
+    "subject": "calculus"
+  },
+  "202110": {
+    "fullName": "Batyrbek Baitanatov",
+    "age": "18",
+    "isMale": "True",
+    "login": "202110@astanait.edu.kz",
+    "password": "123321",
+    "group": "CS-2008",
+    "barcode": "202110"
+  },
+  "202094": {
+    "fullName": "Syrym Nurbaturov",
+    "age": "18",
+    "isMale": "True",
+    "login": "202094@astanait.edu.kz",
+    "password": "123321",
+    "group": "CS-2006",
+    "barcode": "202094"
+  },
+  "202115": {
+    "fullName": "Aidar Zhunussov",
+    "age": "18",
+    "isMale": "True",
+    "login": "202115@astanait.edu.kz",
+    "password": "123321",
+    "group": "CS-2008",
+    "barcode": "202115"
+  },
+  "202062": {
+    "fullName": "Darkan Serik",
+    "age": "18",
+    "isMale": "True",
+    "login": "202062@astanait.edu.kz",
+    "password": "123321",
+    "group": "CS-2006",
+    "barcode": "202062"
+  },
+  "202001": {
+    "fullName": "Kairat Opssa",
+    "age": "19",
+    "isMale": "True",
+    "login": "202001@astanait.edu.kz",
+    "password": "123321",
+    "group": "CS-2006",
+    "barcode": "202001"
+  }
+}
